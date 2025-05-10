@@ -1,0 +1,46 @@
+title = 'Azhar Momin'
+theme = 'rusty-typewriter'
+languageCode = 'en-US'
+enableRobotsTXT = true
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
+# rtwt = Rusty Typewriter Theme
+[params.rtwt.side.home]
+taxonomies = ['tags']
+countTaxonomy = 3
+
+[taxonomies]
+tag = 'tags'
+topic = 'topics'
+
+[params.author]
+name = 'Azhar Momin'
+
+[[menus.main]]
+name = 'Posts'
+pageRef = '/posts'
+weight = 1
+
+[[menus.main]]
+name = 'About'
+pageRef = '/about.md'
+weight = 2
+
+# build search index ================
+[outputFormats]
+ [outputFormats.SearchIndex]
+  mediaType = "application/json"
+  baseName = "searchindex"
+  isPlainText = true
+  notAlternative = true
+
+[mediaTypes]
+ [mediaTypes."application/json"]
+  suffixes = ["json"]
+
+[outputs]
+ home = ["HTML","RSS", "SearchIndex"]
+# ===================================

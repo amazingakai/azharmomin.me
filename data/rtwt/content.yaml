@@ -1,0 +1,4 @@
+home:
+  image: 'images/logo.png'
+  greetings: 'Welcome to my personal website!'
+  text: "I'm Azhar Momin, a software developer and open source enthusiast."
