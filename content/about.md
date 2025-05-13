@@ -1,6 +1,6 @@
 +++
 title = 'About'
-date = '2025-03-24T23:00:00-03:00'
+date = '2025-05-10T00:00:00+05:30'
 type = 'blank'
 +++
 
@@ -13,7 +13,7 @@ I'm Azhar Momin, a software developer and open source enthusiast.
 - **Languages**: C, C++, Rust, Go, Python, JavaScript & TypeScript
 - **Frameworks**: Qt, React, Next.js
 - **Tools**: Git, Docker, Kubernetes
-- **Platforms**: Linux
+- **Operating Systems**: openSUSE, Arch Linux & Fedora
 - **Databases**: PostgreSQL, SQLite, MongoDB
 - **IDEs**: Visual Studio Code, Kate, NeoVim
 

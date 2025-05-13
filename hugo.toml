@@ -14,7 +14,6 @@ countTaxonomy = 3
 
 [taxonomies]
 tag = 'tags'
-topic = 'topics'
 
 [params.author]
 name = 'Azhar Momin'
@@ -28,6 +27,11 @@ weight = 1
 name = 'About'
 pageRef = '/about.md'
 weight = 2
+
+[[menus.main]]
+name = 'Contact'
+url = 'mailto:azharmomin@proton.me'
+weight = 3
 
 # build search index ================
 [outputFormats]
