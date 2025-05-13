@@ -36,3 +36,6 @@ I'm Azhar Momin, a software developer and open source enthusiast.
 - [Mail](mailto:azharmomin@proton.me)
 - [KDE Mail](mailto:azhar.momin@kdemail.net)
 
+## Credits
+- [Hugo](https://gohugo.io/) for static site generation
+- [Rusty-Typewriter](https://github.com/math-queiroz/rusty-typewriter) theme used for this site
