@@ -6,22 +6,23 @@ type = 'blank'
 
 # About
 
-I'm Azhar Momin, a software developer and open source enthusiast.
+I'm Azhar Momin, a computer science student and an OSS lover.
 
 ## Skills
 
 - **Languages**: C, C++, Rust, Go, Python, JavaScript & TypeScript
 - **Frameworks**: Qt, React, Next.js
 - **Tools**: Git, Docker, Kubernetes
-- **Operating Systems**: openSUSE, Arch Linux & Fedora
+- **Operating Systems**: openSUSE, NixOS, Arch Linux & Fedora
 - **Databases**: PostgreSQL, SQLite, MongoDB
-- **IDEs**: Visual Studio Code, Kate, NeoVim
+- **IDEs**: Zed, Visual Studio Code, Kate, NeoVim
 
 ## Interests
 
-- Linux & Open Source
+- Linux
+- Open Source Software (OSS)
 - Software Development
-- DevOps & DevSecOps
+- DevOps/DevSecOps
 
 ## Socials
 
@@ -38,4 +39,4 @@ I'm Azhar Momin, a software developer and open source enthusiast.
 
 ## Credits
 - [Hugo](https://gohugo.io/) for static site generation
-- [Rusty-Typewriter](https://github.com/math-queiroz/rusty-typewriter) theme used for this site
+- Modified version of [Rusty-Typewriter](https://github.com/math-queiroz/rusty-typewriter) theme used for this site
