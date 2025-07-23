@@ -11,7 +11,6 @@
     --dim-color: #88888844;
 
     --quote-text-color: #888;
-    --code-background-color: #1a1a1a;
     --code-text-color: #f0efea;
 }
 
@@ -22,6 +21,8 @@
     --primary-color: #3a7bd5;
     --selection-color: #a2c4f5;
 
+    --code-background-color: #4a4a4a;
+
     --dim-opacity: 65%;
 }
 
@@ -31,6 +32,8 @@
 
     --primary-color: #3a7bd5;
     --selection-color: #1f4e8c;
+
+    --code-background-color: #1a1a1a;
 
     --dim-opacity: 50%;
 }

@@ -7,7 +7,7 @@ featured = true
 
 ## Introduction
 
-Hello! I'm Azhar, a Computer Science student who loves open-source development and contributing to KDE. This summer, I'm excited to be working on the [Google Summer of Code (GSoC) project](https://summerofcode.withgoogle.com/programs/2025/projects/HGa6a2Vn) at [KDE Community](https://community.kde.org) to integrate more KDE libraries into OSS-Fuzz.
+Hello! I'm Azhar, a Computer Science student who loves OSS projects and contributing to KDE. This summer, I'm excited to be working on the [Google Summer of Code (GSoC) project](https://summerofcode.withgoogle.com/programs/2025/projects/HGa6a2Vn) at [KDE Community](https://community.kde.org) to integrate more KDE libraries into OSS-Fuzz.
 
 While KDE already has some libraries integrated into OSS-Fuzz, such as [KArchive](https://invent.kde.org/frameworks/karchive), [KImageFormats](https://invent.kde.org/frameworks/kimageformats), and [KCodecs](https://invent.kde.org/frameworks/kcodecs), there are many more libraries that could benefit from this integration. The goal of this project is to expand the coverage of OSS-Fuzz across KDE libraries, making them more secure and reliable.
 
